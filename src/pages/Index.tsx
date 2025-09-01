@@ -2,6 +2,7 @@ import Navigation from '@/components/Navigation';
 import Hero3D from '@/components/Hero3D';
 import FeaturedMovies from '@/components/FeaturedMovies';
 import StatsSection from '@/components/StatsSection';
+import Footer from '@/components/Footer';
 
 const Index = () => {
   return (
@@ -12,6 +13,7 @@ const Index = () => {
         <FeaturedMovies />
         <StatsSection />
       </main>
+      <Footer />
     </div>
   );
 };
