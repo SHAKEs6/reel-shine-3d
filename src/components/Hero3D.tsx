@@ -74,7 +74,7 @@ export default function Hero3D() {
             NUT_JOB
           </h1>
           <p className="text-2xl md:text-3xl text-foreground/80 mb-8 font-light">
-            Your Ultimate Destination for 2024's Hottest Movies & Animations
+            Your Ultimate Destination for 2025's Hottest Movies & Animations
           </p>
           <div className="flex flex-col sm:flex-row gap-6 justify-center items-center">
             <button className="group px-8 py-4 bg-gradient-primary text-primary-foreground rounded-xl font-semibold text-lg transition-all duration-300 transform hover:scale-105 hover:shadow-glow card-3d">

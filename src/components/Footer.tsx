@@ -14,7 +14,7 @@ export default function Footer() {
               </span>
             </div>
             <p className="text-muted-foreground max-w-md">
-              Your ultimate destination for the latest movies and animations released this year. 
+              Your ultimate destination for the latest movies and animations released in 2025. 
               Experience cinema like never before.
             </p>
           </div>
@@ -56,7 +56,7 @@ export default function Footer() {
 
         <div className="border-t border-border/20 mt-12 pt-8 text-center">
           <p className="text-muted-foreground">
-            © 2024 NUT_JOB. All rights reserved. | Bringing you the best in cinema.
+            © 2025 NUT_JOB. All rights reserved. | Bringing you the best in cinema.
           </p>
         </div>
       </div>

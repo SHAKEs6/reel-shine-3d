@@ -8,7 +8,7 @@ const featuredMovies: Movie[] = [
   {
     id: '1',
     title: 'Dune: Part Two',
-    year: 2024,
+    year: 2025,
     genre: 'Sci-Fi Epic',
     rating: 8.9,
     image: duneImage,
@@ -18,7 +18,7 @@ const featuredMovies: Movie[] = [
   {
     id: '2', 
     title: 'Inside Out 2',
-    year: 2024,
+    year: 2025,
     genre: 'Animation',
     rating: 8.2,
     image: insideOutImage,
@@ -28,7 +28,7 @@ const featuredMovies: Movie[] = [
   {
     id: '3',
     title: 'Deadpool & Wolverine',
-    year: 2024,
+    year: 2025,
     genre: 'Action Comedy',
     rating: 8.5,
     image: deadpoolImage,
@@ -38,7 +38,7 @@ const featuredMovies: Movie[] = [
   {
     id: '4',
     title: 'A Quiet Place: Day One',
-    year: 2024,
+    year: 2025,
     genre: 'Horror Thriller',
     rating: 7.8,
     image: quietPlaceImage,
@@ -63,7 +63,7 @@ export default function FeaturedMovies() {
             Featured Movies
           </h2>
           <p className="text-xl text-muted-foreground max-w-2xl mx-auto">
-            Discover the most anticipated and highest-rated movies of 2024
+            Discover the most anticipated and highest-rated movies of 2025
           </p>
           <div className="w-24 h-1 bg-gradient-primary mx-auto mt-6 rounded-full"></div>
         </div>
